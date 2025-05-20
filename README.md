@@ -24,9 +24,11 @@ I’m a Computer Science student at Zetech University who loves building smart, 
 
 ### 🚀 Projects & Achievements
 
-- Winner of **Most Innovative Project** at Zetech’s Hack & Play session  
-- Developed a **transport payment system** that integrates QR codes with M-Pesa  
-- Active Microsoft Learn Student Ambassador — growing community & skills  
+- Winner of **Most Innovative Project** at Zetech’s Hack & Play session.(twice) 
+- Developed a **transport payment system** that integrates QR codes with M-Pesa [GitHub](https://github.com/wenakanew/easy-transport-payments.git)
+- AI-powered media intelligence agents that turn data into insights[GitHub](https://github.com/wenakanew/tunei-ai-pulse.git)
+- A web-based application that enables users to find vacant houses displayed on an interactive map [GitHub](https://github.com/wenakanew/house-rent.git)
+- Participated in the Huawei ICT Competition 2024-2025 and was among the few who reached the National level, Kenya.
 
 ---
 
@@ -34,8 +36,8 @@ I’m a Computer Science student at Zetech University who loves building smart, 
 
 I’m always open to collaboration and mentorship. If you’re building something cool or want to chat AI, web dev, or networking, drop me a line!
 
-📧 kanew@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/kanew)  
+📧 kaniujeffray@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jeffray-kaniu-331244331/)  
 🐙 [GitHub](https://github.com/wenakanew)  
 
 ---
