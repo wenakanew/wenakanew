@@ -29,6 +29,25 @@ I'm a Computer Science student at Zetech University, passionate about building r
 
 ---
 
+### 🏅 Badges & Certifications
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a13a5b1d-b744-4b55-b3d5-dae2518e7b53" target="_blank">
+    <img src="[images/badge1.png](https://github.com/wenakanew/wenakanew/blob/main/images/AI%20agents%20hackathon.png)" alt="Badge 1" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/ee3f3a98-3288-4eda-9619-2c2499242fd7/public_url" target="_blank">
+    <img src="images/badge2.png" alt="Badge 2" width="100"/>
+  </a>
+  <a href="https://globalai.community/badges/451cc189-0027-47c7-9586-90b85745b71a/" target="_blank">
+    <img src="images/badge3.png" alt="Global AI Badge" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/9e01023e-ea43-4ae6-9e2a-0ab3026f98b4" target="_blank">
+    <img src="images/badge4.png" alt="Badge 4" width="100"/>
+  </a>
+</p>
+
+---
+
 ### 🚀 Projects & Achievements
 
 - 🏆 Winner of **Most Innovative Project** at Zetech’s Hack & Play session (twice)  
