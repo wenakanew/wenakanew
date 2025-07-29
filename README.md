@@ -33,7 +33,7 @@ I'm a Computer Science student at Zetech University, passionate about building r
 
 <p align="center">
   <a href="https://www.credly.com/badges/a13a5b1d-b744-4b55-b3d5-dae2518e7b53" target="_blank">
-    <img src="[images/badge1.png](https://github.com/wenakanew/wenakanew/blob/main/images/AI%20agents%20hackathon.png)" alt="Badge 1" width="100"/>
+    <img src="images/AI agents hackathon.png" alt="Badge 1" width="100"/>
   </a>
   <a href="https://www.credly.com/badges/ee3f3a98-3288-4eda-9619-2c2499242fd7/public_url" target="_blank">
     <img src="images/badge2.png" alt="Badge 2" width="100"/>
