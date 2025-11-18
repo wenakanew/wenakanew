@@ -44,6 +44,9 @@ I'm a Computer Science student at Zetech University, passionate about building r
   <a href="https://www.credly.com/badges/9e01023e-ea43-4ae6-9e2a-0ab3026f98b4" target="_blank">
     <img src="images/cisco learn a thon.png" alt="Badge 4" width="100"/>
   </a>
+  <a href="" target="_blank">
+    <img src="images/plp.png" alt="Badge 4" width="100"/>
+  </a>
 </p>
 
 ---
