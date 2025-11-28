@@ -67,7 +67,7 @@ I'm a Computer Science student at Zetech University, passionate about building r
 ### 📊 GitHub Activity Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenakanew&theme=radical" alt="Contribution Graph" />
 </p>
