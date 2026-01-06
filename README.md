@@ -146,7 +146,7 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 </a>
 
 <a href="https://www.linkedin.com/in/jeffray-kaniu-331244331/" target="_blank">
-<img src="./linkedin.png" width="50" />
+<img src="/images/linkedin.png" width="50" />
 </a>
 
 </div>
