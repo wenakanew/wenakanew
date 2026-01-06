@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋᴀɴᴇᴡ
-*Digital Craftsman (Software Engineer · AI Systems Builder)*
+*(Software Engineer · AI Systems Builder)*
 <br />
 
 <!--Start Intro-->
@@ -21,8 +21,9 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 - 🌱 Currently deepening my knowledge in AI systems, RAG architectures, and backend scalability
 - 🧠 Strong interest in applied Machine Learning and Natural Language Processing
 - 🏆 Hackathon winner (Most Innovative Project – twice)
-- 🎓 National-level finalist, Huawei ICT Competition (Software Track)
+- 🎓 National-level finalist, Huawei ICT Competition (computing Track)
 - 💻 Explore my work on GitHub and selected live projects
+- 💻 Visit my [Portfolio](https://kaniujeffray.me) for more details about me.
 
 <!--End Intro-->
 
