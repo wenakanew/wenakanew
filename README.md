@@ -116,7 +116,9 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=nightowl&count_private=true" />
+        <a href="https://github.com/wenakanew">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=wenakanew&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
       </p>
     </td>
     <td width="50%">
@@ -128,17 +130,19 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/wenakanew/ai-powered-learning-assistant.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenakanew&repo=ai-powered-learning-assistant&theme=nightowl" />
+        <a href="https://github.com/wenakanew/ai-powered-learning-assistant">
+          <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=wenakanew&repo=ai-powered-learning-assistant&theme=nightowl" />
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=nightowl" />
+        <a href="https://github.com/wenakanew">
+        <img src="https://github-contributor-stats.vercel.app/api?username=wenakanew&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
       </p>
     </td>
   </tr>
