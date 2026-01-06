@@ -97,7 +97,6 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
     <img src="images/moringa.png" alt="Badge 6" width="100"/> 
   </a>
 </p> 
----
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 <p align="center">
