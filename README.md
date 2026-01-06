@@ -130,8 +130,8 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
     <td width="50%">
       <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/wenakanew/tunei-ai-pulse">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenakanew&repo=tunei-ai-pulse&theme=nightowl" />
+        <a href="https://github.com/wenakanew/ai-powered-learning-assistant.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenakanew&repo=ai-powered-learning-assistant&theme=nightowl" />
         </a>
       </p>
     </td>
