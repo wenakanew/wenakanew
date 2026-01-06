@@ -1,110 +1,160 @@
-<h1 align="center">Kanew</h1>
-<p align="center"><i>Software Engineer · AI Systems Builder · Practical Technologist</i></p>
+<!--Banner-->
+![Kanew Banner Image](./banner.png)
 
-<p align="center">
-  Nairobi, Kenya · 
-  <a href="mailto:kaniujeffray@gmail.com">kaniujeffray@gmail.com</a> ·
-  <a href="https://www.linkedin.com/in/jeffray-kaniu-331244331/">LinkedIn</a> ·
-  <a href="https://github.com/wenakanew">GitHub</a>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
+
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋᴀɴᴇᴡ
+*Digital Craftsman (Software Engineer · AI Systems Builder)*
+<br />
+
+<!--Start Intro-->
+<p align="left">
+I am a Computer Science student and software engineer who enjoys building practical, intelligent systems.
+My work spans full-stack web development, AI-powered platforms, and applied problem-solving — with a strong preference for clarity, reliability, and solutions that ship.
+</p>
+
+- ✨ Builder by mindset, student by title
+- 🌱 Currently deepening my knowledge in AI systems, RAG architectures, and backend scalability
+- 🧠 Strong interest in applied Machine Learning and Natural Language Processing
+- 🏆 Hackathon winner (Most Innovative Project – twice)
+- 🎓 National-level finalist, Huawei ICT Competition (Software Track)
+- 💻 Explore my work on GitHub and selected live projects
+
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=wenakanew&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="wenakanew" />
 </p>
 
 ---
 
-## About
+<!--Languages and Tools Section-->
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
 
-I’m a Computer Science student at **Zetech University** with a deep interest in building **useful, durable, and intelligent software**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-My work sits at the intersection of **web engineering, AI systems, and applied problem-solving**. I enjoy designing systems that feel simple on the surface but are thoughtfully engineered underneath — whether that’s a full-stack platform, an AI agent, or a robotics project.
+<h3 align="left">Core Technologies</h3>
+<ul align="left">
+  <li><strong>Languages:</strong> Python, JavaScript, TypeScript, SQL</li>
+  <li><strong>Frameworks:</strong> React, Next.js, Node.js (Express), FastAPI, Flask</li>
+  <li><strong>Databases:</strong> MongoDB, Firebase (Firestore), MySQL</li>
+  <li><strong>AI & Data:</strong> RAG, NLP, OpenAI API, Vector Search</li>
+  <li><strong>Tools:</strong> Git, GitHub, Docker (fundamentals), Vercel</li>
+</ul>
 
-I value:
-- clarity over complexity  
-- reliability over hype  
-- solutions that actually ship  
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Designing scalable AI systems using Retrieval-Augmented Generation.</li>
+  <li>Improving backend performance and API architecture.</li>
+  <li>Building intelligent agents that integrate cleanly with real products.</li>
+</ul>
 
----
+<br />
+<br />
+<br />
+<br />
 
-## What I Work With
-
-**Languages**
-- Python
-- JavaScript / TypeScript
-- SQL
-- HTML & CSS
-
-**Frameworks & Platforms**
-- React, Next.js
-- Node.js (Express)
-- FastAPI, Flask
-- Firebase, MongoDB, MySQL
-
-**AI & Data**
-- Retrieval-Augmented Generation (RAG)
-- NLP & sentiment analysis
-- OpenAI API
-- Vector search & embeddings
-
-**Tools**
-- Git & GitHub
-- Docker (fundamentals)
-- Vercel
-- Linux-based development
-
----
-
-## Selected Projects
-
-**Tunei — AI Media Intelligence Platform**  
-AI-powered system that monitors public online conversations, extracts trends, and performs sentiment analysis for actionable insights.  
-→ https://github.com/wenakanew/tunei-ai-pulse
-
-**Sentio — AI Personal Robot**  
-An intelligent robot built using Raspberry Pi and Arduino, featuring voice interaction, camera streaming, emotion-aware responses, and RAG-based reasoning.  
-→ Private / In active development
-
-**House Rent Platform**  
-A full-stack web application for discovering vacant rental houses using smart filters and interactive maps.  
-→ https://github.com/wenakanew/house-rent
-
-**Smart Transport Payment System**  
-QR-based transport payment solution integrated with M-Pesa for seamless fare collection.  
-→ https://github.com/wenakanew/easy-transport-payments
-
----
-
-## Achievements & Certifications
-
-- 🏆 **Most Innovative Project** — Zetech Hack & Play (twice)
-- 🎓 **National Level Finalist** — Huawei ICT Competition 2024–2025 (Software Track)
-- 📜 Cisco Networking Academy — Learn-A-Thon 2025
-- 🌍 Global AI Community participant
-
----
-
-## GitHub Snapshot
-
+<!--Trophies Section-->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="160"/>
+  <a href="https://github.com/wenakanew">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=wenakanew&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=wenakanew&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=wenakanew&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
 
+<br />
+
+<!--Github stats Table-->
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=nightowl&count_private=true" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wenakanew&theme=nightowl" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/wenakanew/tunei-ai-pulse">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=wenakanew&repo=tunei-ai-pulse&theme=nightowl" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</strong></h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=nightowl" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenakanew&theme=nightowl" />
+</div>
+
+---
+
+<!--Quote-->
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=transparent" height="140"/>
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Alan%20Turing&quote=We%20can%20only%20see%20a%20short%20distance%20ahead%2C%20but%20we%20can%20see%20plenty%20there%20that%20needs%20to%20be%20done.&theme=dark" />
 </p>
 
 ---
 
-## Philosophy
+<!--Contact Section-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
+<div align="center">
 
-> “Good software is quiet.  
-> It does its job, doesn’t beg for attention,  
-> and keeps working long after the hype fades.”
+<a href="mailto:kaniujeffray@gmail.com" target="_blank">
+<img src="./gmail.png" width="50" />
+</a>
 
-I’m interested in roles, collaborations, and ideas that value **engineering depth**, **long-term thinking**, and **real-world impact**.
+<a href="https://github.com/wenakanew" target="_blank">
+<img src="./github.png" width="50" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/jeffray-kaniu-331244331/" target="_blank">
+<img src="./linkedin.png" width="50" />
+</a>
 
+</div>
+
+<br />
+
+<!--Footer-->
 <p align="center">
-  <sub>
-    Fueled by coffee ☕ · Inspired by classic sci-fi ·  
-    Builder at heart, student by title
-  </sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
+
