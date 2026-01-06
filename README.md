@@ -138,11 +138,11 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 <div align="center">
 
 <a href="mailto:kaniujeffray@gmail.com" target="_blank">
-<img src="./gmail.png" width="50" />
+<img src="/images/gmail.png" width="50" />
 </a>
 
 <a href="https://github.com/wenakanew" target="_blank">
-<img src="./github.png" width="50" />
+<img src="/images/github.png" width="50" />
 </a>
 
 <a href="https://www.linkedin.com/in/jeffray-kaniu-331244331/" target="_blank">
