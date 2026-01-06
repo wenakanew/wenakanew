@@ -1,106 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kanew</h1>
-<h3 align="center">Full Stack web Dev | AI/ML Enthusiast | Practical Solutions Builder</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=HELLO+WORLD%2C+I'M+KANIU.;BUILDING+DIGITAL+ARCHITECTURE.;ENGINEERING+INTELLIGENT+SYSTEMS." alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <i>Computer Science Scholar @ Zetech University | Ruiru, Kenya</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=252525&height=100&section=header&text=" width="100%"/>
+</div>
+
+### <img src="https://media.giphy.com/media/VhDsKeBIYbXrm/giphy.gif" width="25"> The Archive
+
+I am a software craftsman and aspiring engineer with a focus on **Artificial Intelligence, IoT, and Full-Stack Scalability**. 
+
+My work bridges the gap between digital logic and physical interaction. Whether it's training **LLMs for RAG systems** or soldering circuits for **autonomous robotics**, I build solutions that are practical, robust, and designed for the real world.
+
+Currently, I am shaping the future of ed-tech with **AI-powered learning assistants** and competing at the national level in ICT innovation.
 
 ---
 
-### 🧑‍💻 About Me
-
-I'm a Computer Science student at Zetech University, passionate about building real-world tech solutions. From seamless web experiences to advanced AI and data science projects, I love making code work for real life.
-
----
-
-### 💼 Tech Stack & Tools
+### 🛠 The Workshop (Tech Stack)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-- **Tech Interests:** Machine Learning, Natural Language Processing, Web Development  
-- **Certifications:** Cisco Networking Academy Learn-A-Thon 2025  
-- **Passions:** Event-driven programming, real-time interactivity, scalable solutions
-
----
-
-### 🏅 Badges & Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/badges/a13a5b1d-b744-4b55-b3d5-dae2518e7b53" target="_blank">
-    <img src="images/AI agents hackathon.png" alt="Badge 1" width="100"/>
-  </a>
-  <a href="https://www.credly.com/badges/ee3f3a98-3288-4eda-9619-2c2499242fd7/public_url" target="_blank">
-    <img src="images/leo.png" alt="Badge 2" width="100"/>
-  </a>
-  <a href="https://globalai.community/badges/451cc189-0027-47c7-9586-90b85745b71a/" target="_blank">
-    <img src="images/nairobi_598_sticker.png" alt="Global AI Badge" width="100"/>
-  </a>
-  <a href="https://www.credly.com/badges/9e01023e-ea43-4ae6-9e2a-0ab3026f98b4" target="_blank">
-    <img src="images/cisco learn a thon.png" alt="Badge 4" width="100"/>
-  </a>
-  <a href="" target="_blank">
-    <img src="images/plp.png" alt="Badge 4" width="100"/>
-  </a>
-</p>
-
----
-
-### 🚀 Projects & Achievements
-
-- 🏆 Winner of **Most Innovative Project** at Zetech’s Hack & Play session (twice)  
-- 💡 Developed a transport payment system integrating QR codes with M-Pesa  
-  [View Project](https://github.com/wenakanew/easy-transport-payments.git)
-- 🤖 Built AI-powered media intelligence agents for actionable insights  
-  [View Project](https://github.com/wenakanew/tunei-ai-pulse.git)
-- 🏠 Created a web app to find vacant houses on an interactive map  
-  [View Project](https://github.com/wenakanew/house-rent.git)
-- 🎓 Reached National level in Huawei ICT Competition 2024-2025 (Kenya)
-
----
-
-### 📊 GitHub Activity Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++_IoT-333333?style=flat-square&logo=cplusplus&logoColor=white"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wenakanew&theme=radical" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/React_&_Next.js-555555?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask_&_FastAPI-555555?style=flat-square&logo=flask&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-777777?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-777777?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-777777?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Languages Detected by GitHub
+### 📂 Selected Works
+
+| Project | Classification | Status |
+| :--- | :--- | :--- |
+| **[Sentio](https://github.com/wenakanew)** | 🤖 **AI Robotics** <br> A Raspberry Pi/Arduino robot with voice interaction, emotion detection, and GPT-fallback RAG architecture. | *Prototype* |
+| **[Tunei](https://github.com/wenakanew/tunei-ai-pulse.git)** | 📡 **Intelligence** <br> Social media pulse-checker using NLP to extract trends and sentiment analysis from public conversations. | *Deployed* |
+| **[Learning Assistant](https://ai-powered-learning-assistant.vercel.app)** | 🎓 **Ed-Tech** <br> Full-stack RAG tool turning PDFs into interactive knowledge bases via OpenAI API. | *Live* |
+| **[Easy Transport](https://github.com/wenakanew/easy-transport-payments.git)** | 💳 **FinTech** <br> Digital ticketing system integrating QR codes and payments for Kenyan transit. | *Completed* |
+
+---
+
+### 🏆 Distinction & Certification
+
+> *"Quality means doing it right when no one is looking."* — Henry Ford
+
+* **National Finalist:** Huawei ICT Competition 2024–2025 (Software Track)
+* **2x Hackathon Winner:** Zetech University Internal Innovation Challenges
+* **Certified:** Cisco Networking Academy Learn-A-Thon 2025
+
+---
+
+### 📊 Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=graywhite&hide_border=true&count_private=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
 
-### 💬 Random Dev Quote
+<div align="center">
+  <a href="https://linkedin.com/in/kaniujeffray"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kaniujeffray@gmail.com"><img src="https://img.shields.io/badge/Send_Transmission-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</div>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### 🤝 Connect With Me
-
-- 📍 Nairobi, Kenya  
-- 📧 kaniujeffray@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jeffray-kaniu-331244331/)  
-- 🐙 [GitHub](https://github.com/wenakanew)
-
----
-
-> ⚡ Fun Fact: I’m fueled by ☕, inspired by sci-fi, and always up for a good board game challenge.
-
----
-
-Thanks for visiting — let’s create the future with code!
+<div align="center">
+  <br>
+  <sub><i>End of Line.</i></sub>
+</div>
