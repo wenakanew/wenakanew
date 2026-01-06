@@ -1,82 +1,110 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=HELLO+WORLD%2C+I'M+KANIU.;BUILDING+DIGITAL+ARCHITECTURE.;ENGINEERING+INTELLIGENT+SYSTEMS." alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <i>Computer Science Scholar @ Zetech University | Ruiru, Kenya</i>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=252525&height=100&section=header&text=" width="100%"/>
-</div>
-
-### <img src="https://media.giphy.com/media/VhDsKeBIYbXrm/giphy.gif" width="25"> The Archive
-
-I am a software craftsman and aspiring engineer with a focus on **Artificial Intelligence, IoT, and Full-Stack Scalability**. 
-
-My work bridges the gap between digital logic and physical interaction. [cite_start]Whether it's training **LLMs for RAG systems** [cite: 6] [cite_start]or soldering circuits for **autonomous robotics**[cite: 37], I build solutions that are practical, robust, and designed for the real world.
-
-[cite_start]Currently, I am shaping the future of ed-tech with **AI-powered learning assistants** and competing at the national level in ICT innovation[cite: 18, 50].
-
----
-
-### 🛠 The Workshop (Tech Stack)
+<h1 align="center">Kanew</h1>
+<p align="center"><i>Software Engineer · AI Systems Builder · Practical Technologist</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-333333?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++_IoT-333333?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/React_&_Next.js-555555?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask_&_FastAPI-555555?style=flat-square&logo=flask&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/MongoDB-777777?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-777777?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-777777?style=flat-square&logo=git&logoColor=white"/>
+  Nairobi, Kenya · 
+  <a href="mailto:kaniujeffray@gmail.com">kaniujeffray@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/jeffray-kaniu-331244331/">LinkedIn</a> ·
+  <a href="https://github.com/wenakanew">GitHub</a>
 </p>
 
 ---
 
-### 📂 Selected Works
+## About
 
-| Project | Classification | Status |
-| :--- | :--- | :--- |
-| **[Sentio](https://github.com/wenakanew)** | 🤖 **AI Robotics** <br> A Raspberry Pi/Arduino robot with voice interaction, emotion detection, and GPT-fallback RAG architecture. | *Prototype* |
-| **[Tunei](https://github.com/wenakanew/tunei-ai-pulse.git)** | 📡 **Intelligence** <br> Social media pulse-checker using NLP to extract trends and sentiment analysis from public conversations. | *Deployed* |
-| **[Learning Assistant](https://ai-powered-learning-assistant.vercel.app)** | 🎓 **Ed-Tech** <br> Full-stack RAG tool turning PDFs into interactive knowledge bases via OpenAI API. | *Live* |
-| **[Easy Transport](https://github.com/wenakanew/easy-transport-payments.git)** | 💳 **FinTech** <br> Digital ticketing system integrating QR codes and payments for Kenyan transit. | *Completed* |
+I’m a Computer Science student at **Zetech University** with a deep interest in building **useful, durable, and intelligent software**.
 
----
+My work sits at the intersection of **web engineering, AI systems, and applied problem-solving**. I enjoy designing systems that feel simple on the surface but are thoughtfully engineered underneath — whether that’s a full-stack platform, an AI agent, or a robotics project.
 
-### 🏆 Distinction & Certification
-
-> *"Quality means doing it right when no one is looking."* — Henry Ford
-
-* [cite_start]**National Finalist:** Huawei ICT Competition 2024–2025 (Software Track) [cite: 50]
-* [cite_start]**2x Hackathon Winner:** Zetech University Internal Innovation Challenges [cite: 51]
-* **Certified:** Cisco Networking Academy Learn-A-Thon 2025
+I value:
+- clarity over complexity  
+- reliability over hype  
+- solutions that actually ship  
 
 ---
 
-### 📊 Telemetry
+## What I Work With
+
+**Languages**
+- Python
+- JavaScript / TypeScript
+- SQL
+- HTML & CSS
+
+**Frameworks & Platforms**
+- React, Next.js
+- Node.js (Express)
+- FastAPI, Flask
+- Firebase, MongoDB, MySQL
+
+**AI & Data**
+- Retrieval-Augmented Generation (RAG)
+- NLP & sentiment analysis
+- OpenAI API
+- Vector search & embeddings
+
+**Tools**
+- Git & GitHub
+- Docker (fundamentals)
+- Vercel
+- Linux-based development
+
+---
+
+## Selected Projects
+
+**Tunei — AI Media Intelligence Platform**  
+AI-powered system that monitors public online conversations, extracts trends, and performs sentiment analysis for actionable insights.  
+→ https://github.com/wenakanew/tunei-ai-pulse
+
+**Sentio — AI Personal Robot**  
+An intelligent robot built using Raspberry Pi and Arduino, featuring voice interaction, camera streaming, emotion-aware responses, and RAG-based reasoning.  
+→ Private / In active development
+
+**House Rent Platform**  
+A full-stack web application for discovering vacant rental houses using smart filters and interactive maps.  
+→ https://github.com/wenakanew/house-rent
+
+**Smart Transport Payment System**  
+QR-based transport payment solution integrated with M-Pesa for seamless fare collection.  
+→ https://github.com/wenakanew/easy-transport-payments
+
+---
+
+## Achievements & Certifications
+
+- 🏆 **Most Innovative Project** — Zetech Hack & Play (twice)
+- 🎓 **National Level Finalist** — Huawei ICT Competition 2024–2025 (Software Track)
+- 📜 Cisco Networking Academy — Learn-A-Thon 2025
+- 🌍 Global AI Community participant
+
+---
+
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=graywhite&hide_border=true&count_private=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wenakanew&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&layout=compact&theme=transparent" height="140"/>
 </p>
 
 ---
 
-<div align="center">
-  <a href="https://linkedin.com/in/kaniujeffray"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2b2b2b?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:kaniujeffray@gmail.com"><img src="https://img.shields.io/badge/Send_Transmission-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+## Philosophy
 
-<div align="center">
-  <br>
-  <sub><i>End of Line.</i></sub>
-</div>
+> “Good software is quiet.  
+> It does its job, doesn’t beg for attention,  
+> and keeps working long after the hype fades.”
+
+I’m interested in roles, collaborations, and ideas that value **engineering depth**, **long-term thinking**, and **real-world impact**.
+
+---
+
+<p align="center">
+  <sub>
+    Fueled by coffee ☕ · Inspired by classic sci-fi ·  
+    Builder at heart, student by title
+  </sub>
+</p>
