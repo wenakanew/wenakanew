@@ -72,9 +72,6 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 </ul>
 
 <br />
-<br />
-<br />
-<br />
 
 ### 🏅 Badges & Certifications 
 <p align="center"> 
