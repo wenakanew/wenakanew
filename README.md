@@ -37,12 +37,12 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 <!--Languages and Tools Section-->
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2>
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="Skills animation" src="./Skills_Animation_White.gif">
 </picture>
-<br />
+<br />-->
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
@@ -76,6 +76,28 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 <br />
 <br />
 
+### 🏅 Badges & Certifications 
+<p align="center"> 
+  <a href="https://www.credly.com/badges/a13a5b1d-b744-4b55-b3d5-dae2518e7b53" target="_blank"> 
+    <img src="images/AI agents hackathon.png" alt="Badge 1" width="100"/> 
+  </a> 
+  <a href="https://www.credly.com/badges/ee3f3a98-3288-4eda-9619-2c2499242fd7/public_url" target="_blank"> 
+    <img src="images/leo.png" alt="Badge 2" width="100"/> 
+  </a> 
+  <a href="https://globalai.community/badges/451cc189-0027-47c7-9586-90b85745b71a/" target="_blank"> 
+      <img src="images/nairobi_598_sticker.png" alt="Global AI Badge" width="100"/>
+  </a> 
+  <a href="https://www.credly.com/badges/9e01023e-ea43-4ae6-9e2a-0ab3026f98b4" target="_blank"> 
+    <img src="images/cisco learn a thon.png" alt="Badge 4" width="100"/> 
+  </a> 
+  <a href="" target="_blank"> 
+    <img src="images/plp.png" alt="Badge 5" width="100"/> 
+  </a>
+  <a href="" target="_blank"> 
+    <img src="images/moringa.png" alt="Badge 6" width="100"/> 
+  </a>
+</p> 
+---
 <!--Trophies Section-->
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Aᴄʜɪᴇᴠᴇᴍᴇɴᴛs 🏆</h2>
 <p align="center">
