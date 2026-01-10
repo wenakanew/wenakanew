@@ -124,7 +124,8 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=wenakanew&theme=nightowl" />
+        <a href="https://github.com/wnakanew">
+        <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=wenakanew&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
       </p>
     </td>
   </tr>
