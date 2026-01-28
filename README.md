@@ -139,12 +139,13 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Tᴏᴘ Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/wenakanew">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=wenakanew&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Lanuages" />
         </a>
       </p>
+      ![]()
     </td>
   </tr>
 </table>
