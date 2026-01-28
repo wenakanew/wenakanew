@@ -145,7 +145,6 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenakanew&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Lanuages" />
         </a>
       </p>
-      ![]()
     </td>
   </tr>
 </table>
