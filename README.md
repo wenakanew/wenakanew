@@ -117,7 +117,7 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/wenakanew">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=wenakanew&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+           <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=wenakanew&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
