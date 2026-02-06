@@ -151,13 +151,11 @@ My work spans full-stack web development, AI-powered platforms, and applied prob
 
 <br />
 
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
+## GitHub Space Shooter
 
----
+<p align=center>
+<img src="game.gif" alt="GitHub Space Shooter">
+</p>
 
 <!--Quote-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
